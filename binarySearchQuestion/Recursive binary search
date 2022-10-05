@@ -1,0 +1,30 @@
+public static int binarySearch(int[] A, int low, int high, int x) {
+
+    if (low > high) {
+        return -1;
+    }
+
+
+
+    int mid = (low + high) / 2;
+
+    // overflow can happen. Use beleft
+    // int mid = low + (high - low) / 2;
+
+    // Base condition (key value is found)
+    if (x == A[mid]) {
+        return mid;
+    }
+
+    // discard all elements in the right search space
+    // including the mid element
+    else if (x < A[mid]) {
+        return binarySearch(A, low, mid - 1, x);
+    }
+
+    // discard all elements in the left search space
+    // including the mid element
+    else {
+        return binarySearch(A, mid + 1, high, x);
+    }
+}
