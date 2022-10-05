@@ -6,7 +6,7 @@ HACKTOBERFEST IS FOR EVERYONE. WHETHER IT’S YOUR FIRST TIME—OR YOUR NINTH—
 
 Go through this link and [Register here](https://hacktoberfest.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🎁🎁🔥.
 
-Check out `good-first-issues` for contributing [here](https://github.com/saraswati258/Best-Python-Project-Hacktoberfest-2022/issues)
+Check out `good-first-issues` for contributing [here](https://github.com/saraswati258/Java-Projects-For-Hacktoberfest-2022/issues)
 </div>
 
 # Author 
