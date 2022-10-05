@@ -42,6 +42,6 @@ Woo-Hooo🎉, You have made a PR to this repo🥳!
 Thank You❤️!
 
 # License
-This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](https://github.com/saraswati258/Best-Python-Project-Hacktoberfest-2022/blob/main/LICENSE) file for details
+This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](https://github.com/saraswati258/Java-Projects-For-Hacktoberfest-2022/blob/main/LICENSE) file for details
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0)
