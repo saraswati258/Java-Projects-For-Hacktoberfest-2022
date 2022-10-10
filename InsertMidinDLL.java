@@ -1,4 +1,4 @@
-public class InsertMid {  
+public class InsertMidinDLL {  
   
     class Node{  
         int data;  
