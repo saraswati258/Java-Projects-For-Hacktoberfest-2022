@@ -1,7 +1,11 @@
+
+
 package Java-Projects-For-Hacktoberfest-2022;
 import java.util.*;
-
-public class Calculator {
+class Calculator
+{
+ public class Calculator
+ {
     public static void main(String ar[])
     {
         Scanner sc=new Scanner(System.in);
@@ -47,5 +51,6 @@ public class Calculator {
             System.out.println("Invalid Choice");
             break;
        }
+
     }
 }
